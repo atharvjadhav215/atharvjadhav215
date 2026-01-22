@@ -87,7 +87,7 @@ Institutional insights aligned with NIRF
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/atharvjadhav215">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jadhavatharv215@gmail.com">
