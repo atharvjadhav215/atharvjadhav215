@@ -47,23 +47,23 @@
 
 > ⏳ *From ideas to impact*
 
-▶️ **🌟 Club Elite**  
+**🌟 Club Elite**  
 `ML • UI/UX • Recommendations`  
 Skill-based club matching, events & notifications  
 
-▶️ **🌾 AgriMitra**  
+**🌾 AgriMitra**  
 `AI • NLP • Community`  
 AI chatbot, crop insights, govt schemes  
 
-▶️ **🎨 Fusion Art**  
+**🎨 Fusion Art**  
 `Real-time • Auctions • Security`  
 Live art auctions with secure payments  
 
-▶️ **🥗 AharaSutra**  
+**🥗 AharaSutra**  
 `AI • Healthcare • Cloud`  
 HIPAA-compliant Ayurvedic diet planning  
 
-▶️ **🌐 Unisphere**  
+**🌐 Unisphere**  
 `Analytics • Dashboards • Governance`  
 Institutional insights aligned with NIRF  
 
@@ -77,9 +77,10 @@ Institutional insights aligned with NIRF
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvjadhav215&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvjadhav215&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvjadhav215&theme=tokyonight" height="180"/>
+
 </p>
 
 ---
